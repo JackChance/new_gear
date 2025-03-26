@@ -1,0 +1,455 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "EroClnvL7Bjm-TLnk",
+			"description": "Sedan, Gasoline",
+			"notes": "ST/HP:53  Hnd/SR:0/4  HT:11f  Move: 2/55  Lwt: 1.8  Load: 0.6  SM: +3  Occ: 1+4  DR: 5  Range: 500  Locations: GW4",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 15000,
+			"weight": "2,400 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 15000,
+				"extended_weight": "2,400 lb"
+			}
+		},
+		{
+			"id": "EUfoKGilE6GHEsPrN",
+			"description": "Sedan, Electric",
+			"notes": "ST/HP:48  Hnd/SR:0/4  HT:11  Move: 3/55  Lwt: 1.7  Load: 0.6  SM: +3  Occ: 1+4  DR: 5  Range: 250  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 23000,
+			"weight": "2,200 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 23000,
+				"extended_weight": "2,200 lb"
+			}
+		},
+		{
+			"id": "EinnQ03Nfan15Djws",
+			"description": "Sedan, Hybrid",
+			"notes": "ST/HP:51  Hnd/SR:0/4  HT:11  Move: 2/55  Lwt: 1.9  Load: 0.6  SM: +3  Occ: 1+4  DR: 5  Range: 750  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 18500,
+			"weight": "2,600 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 18500,
+				"extended_weight": "2,600 lb"
+			}
+		},
+		{
+			"id": "E2FmtH9dq3CjBw1HE",
+			"description": "Pickup Truck, Gasoline",
+			"notes": "ST/HP:55  Hnd/SR:0/4  HT:11f  Move: 3/50  Lwt: 2.2  Load: 0.85  SM: +3  Occ: 1+1  DR: 5  Range: 450  Locations: GW4",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 20000,
+			"weight": "2,700 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 20000,
+				"extended_weight": "2,700 lb"
+			}
+		},
+		{
+			"id": "E_eMpg8stxfyCF7Fg",
+			"description": "Pickup Truck, Electric",
+			"notes": "ST/HP:50  Hnd/SR:0/4  HT:11  Move: 4/50  Lwt: 2.1  Load: 0.85  SM: +3  Occ: 1+1  DR: 5  Range: 225  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 33000,
+			"weight": "2,500 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 33000,
+				"extended_weight": "2,500 lb"
+			}
+		},
+		{
+			"id": "E240NYLz_hV2GQJxc",
+			"description": "Pickup Truck, Hybrid",
+			"notes": "ST/HP:53  Hnd/SR:0/4  HT:11f  Move: 3/50  Lwt: 2.3  Load: 0.85  SM: +3  Occ: 1+1  DR: 5  Range: 675  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 26000,
+			"weight": "2,900 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 26000,
+				"extended_weight": "2,900 lb"
+			}
+		},
+		{
+			"id": "EHDwWJhdvfCzhNqo_",
+			"description": "Heavy Pickup Truck, Gasoline",
+			"notes": "ST/HP:70  Hnd/SR:-1/4  HT:11f  Move: 4/50  Lwt: 3.75  Load: 1.25  SM: +4  Occ: 1+4  DR: 5  Range: 450  Locations: GW4",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 40000,
+			"weight": "5,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 40000,
+				"extended_weight": "5,000 lb"
+			}
+		},
+		{
+			"id": "EkpO8VyMkeWABn8Bc",
+			"description": "Heavy Pickup Truck, Electric",
+			"notes": "ST/HP:63  Hnd/SR:-1/4  HT:11f  Move: 5/50  Lwt: 3.6  Load: 1.25  SM: +4  Occ: 1+4  DR: 5  Range: 225  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 64000,
+			"weight": "4,700 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 64000,
+				"extended_weight": "4,700 lb"
+			}
+		},
+		{
+			"id": "EJ4IKGX48ihWAAjJi",
+			"description": "Heavy Pickup Truck, Hybrid",
+			"notes": "ST/HP:67  Hnd/SR:-1/4  HT:11f  Move: 5/50  Lwt: 3.9  Load: 1.25  SM: +4  Occ: 1+4  DR: 5  Range: 675  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 52000,
+			"weight": "5,300 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 52000,
+				"extended_weight": "5,300 lb"
+			}
+		},
+		{
+			"id": "Ee8LwzcjNpbpJly0E",
+			"description": "City Commuter, Electric",
+			"notes": "ST/HP:25  Hnd/SR:+1/4  HT:9  Move: 4/30  Lwt: 0.5  Load: 0.15  SM: +1  Occ: 1  DR: 3  Range: 200  Locations: GW4",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 9000,
+			"weight": "5,300 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 9000,
+				"extended_weight": "5,300 lb"
+			}
+		},
+		{
+			"id": "EEuklCBvTKKMEicAY",
+			"description": "Motorbike, Gasoline",
+			"notes": "ST/HP:27  Hnd/SR:+1/2  HT:11f  Move: 9/65  Lwt: 0.45  Load: 0.2  SM: 0  Occ: 1+1  DR: 3  Range: 200  Locations: EW2",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 5000,
+			"weight": "500 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 5000,
+				"extended_weight": "500 lb"
+			}
+		},
+		{
+			"id": "E5kJrBlxDPfMkzOIZ",
+			"description": "Motorbike, Electric",
+			"notes": "ST/HP:25  Hnd/SR:+1/2  HT:11  Move: 10/65  Lwt: 0.4  Load: 0.2  SM: 0  Occ: 1+1  DR: 3  Range: 100  Locations: EW2",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 8000,
+			"weight": "400 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 8000,
+				"extended_weight": "400 lb"
+			}
+		},
+		{
+			"id": "ETCa1ivAsw0pbIf_h",
+			"description": "Heavy Motorbike, Gasoline",
+			"notes": "ST/HP:33  Hnd/SR:+1/2  HT:11f  Move: 8/55  Lwt: 0.5  Load: 0.2  SM: 0  Occ: 1+1  DR: 4  Range: 200  Locations: EW2",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 8000,
+			"weight": "600 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 8000,
+				"extended_weight": "600 lb"
+			}
+		},
+		{
+			"id": "EcZWM0OUWBJFmHy21",
+			"description": "Heavy Motorbike, Electric",
+			"notes": "ST/HP:30  Hnd/SR:+1/2  HT:11  Move: 9/55  Lwt: 0.45  Load: 0.2  SM: 0  Occ: 1+1  DR: 4  Range: 100  Locations: EW2",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 13000,
+			"weight": "500 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 13000,
+				"extended_weight": "500 lb"
+			}
+		},
+		{
+			"id": "E7lIFaClftwSQpNPb",
+			"description": "Sports Bike, Gasoline",
+			"notes": "ST/HP:30  Hnd/SR:+2/2  HT:10f  Move: 9/78  Lwt: 0.42  Load: 0.2  SM: 0  Occ: 1+1  DR: 3  Range: 150  Locations: EW2",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 11000,
+			"weight": "440 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 11000,
+				"extended_weight": "440 lb"
+			}
+		},
+		{
+			"id": "EDk77LPChhv6rBawX",
+			"description": "Sports Bike, Electric",
+			"notes": "ST/HP:27  Hnd/SR:+2/2  HT:10  Move: 10/78  Lwt: 0.37  Load: 0.2  SM: 0  Occ: 1+1  DR: 3  Range:  75  Locations: EW2",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 18000,
+			"weight": "340 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 18000,
+				"extended_weight": "340 lb"
+			}
+		},
+		{
+			"id": "EujUFl7K3VAvyqCUz",
+			"description": "Cargo Van, Gasoline",
+			"notes": "ST/HP:68  Hnd/SR:-1/4  HT:11f  Move: 2/45  Lwt: 3.5  Load: 1  SM: +4  Occ: 1+7  DR: 4  Range:  650  Locations: g4W",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 25000,
+			"weight": "5,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 25000,
+				"extended_weight": "5,000 lb"
+			}
+		},
+		{
+			"id": "EcTJ354onA8g2xhfN",
+			"description": "Cargo Van, Electric",
+			"notes": "ST/HP:62  Hnd/SR:-1/4  HT:11  Move: 3/45  Lwt: 3.3  Load: 1  SM: +4  Occ: 1+7  DR: 4  Range:  325  Locations: g4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 40000,
+			"weight": "4,600 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 40000,
+				"extended_weight": "4,600 lb"
+			}
+		},
+		{
+			"id": "Ebdqe4BDqRft5yh4i",
+			"description": "Cargo Van, Hybrid",
+			"notes": "ST/HP:65  Hnd/SR:-1/4  HT:11f  Move: 2/45  Lwt: 3.7  Load: 1  SM: +4  Occ: 1+7  DR: 4  Range:  975  Locations: g4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 32500,
+			"weight": "5,400 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 32500,
+				"extended_weight": "5,400 lb"
+			}
+		},
+		{
+			"id": "EkJYmrO5F4sxKK0-I",
+			"description": "SUV, Gasoline",
+			"notes": "ST/HP:68  Hnd/SR:-1/4  HT:11f  Move: 3/50  Lwt: 4  Load: 1.5  SM: +3  Occ: 1+4  DR: 5 Range:  400  Locations: G4W",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 45000,
+			"weight": "5,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 45000,
+				"extended_weight": "5,000 lb"
+			}
+		},
+		{
+			"id": "EMZxLGiXhXI0oNGcR",
+			"description": "SUV, Hybrid",
+			"notes": "ST/HP:65  Hnd/SR:-1/4  HT:11f  Move: 3/50  Lwt: 4.2  Load: 1.5  SM: +3  Occ: 1+4  DR: 5 Range:  600  Locations: G4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 60000,
+			"weight": "5,400 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 60000,
+				"extended_weight": "5,400 lb"
+			}
+		},
+		{
+			"id": "EmgxVncDzKYOD9T28",
+			"description": "SUV, Electric",
+			"notes": "ST/HP:62  Hnd/SR:-1/4  HT:11  Move: 4/50  Lwt: 3.8  Load: 1.5  SM: +3  Occ: 1+4  DR: 5 Range:  200  Locations: G4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Automobile)"
+			],
+			"value": 75000,
+			"weight": "4,600 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 75000,
+				"extended_weight": "4,600 lb"
+			}
+		},
+		{
+			"id": "EImQvEZ76ay-zCr_c",
+			"description": "Bus, Diesel",
+			"notes": "ST/HP:100  Hnd/SR:-2/4  HT:11f  Move: 1/30  Lwt: 14.7  Load: 6.7  SM: +6  Occ: 1+66  DR: 4 Range:  400  Locations: G4W",
+			"tech_level": "7",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Heavy Wheeled)"
+			],
+			"value": 120000,
+			"weight": "16,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 120000,
+				"extended_weight": "16,000 lb"
+			}
+		},
+		{
+			"id": "E-07sMOEl7fY3kW2e",
+			"description": "Bus, Hybrid",
+			"notes": "ST/HP: 95  Hnd/SR:-2/4  HT:11f  Move: 1/30  Lwt: 15.7  Load: 6.7  SM: +6  Occ: 1+66  DR: 4 Range:  600  Locations: G4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Heavy Wheeled)"
+			],
+			"value": 160000,
+			"weight": "18,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 160000,
+				"extended_weight": "18,000 lb"
+			}
+		},
+		{
+			"id": "E30nNpLGZxy5OpKV7",
+			"description": "Bus, Electric",
+			"notes": "ST/HP: 90  Hnd/SR:-2/4  HT:11f  Move: 2/30  Lwt: 13.7  Load: 6.7  SM: +6  Occ: 1+66  DR: 4 Range:  200  Locations: G4W",
+			"tech_level": "8",
+			"legality_class": "4",
+			"tags": [
+				"Driving (Heavy Wheeled)"
+			],
+			"value": 200000,
+			"weight": "14,000 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 200000,
+				"extended_weight": "14,000 lb"
+			}
+		}
+	]
+}
