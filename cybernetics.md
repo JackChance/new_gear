@@ -1,0 +1,4 @@
+Arm tech
+* Replacement, basic: Mitigates 'One Arm' trait with "weekly maintenance" and "Electrical" mitigators: (20x0.35x.8)x(20,000x.07)x2 = $15,680(x.2 for common) = $3136
+* * Built in taser: Can be built into a cybernetic or natural limb. Fore and middle finger are the contact points, uses the Brawl skill. Innate Attack(burn, 1d6) with Follow-up Affliction rank 4(HT-3, Physical Stun starting at HT-3 to recover on fail) with Melee Attack(No parry, -.35), Limited User(5, fast reload(5), -.05) and with "weekly maintenance" and "Electrical" mitigators (45x.6)(20,000x.15)(162,000x.35x.8)x2 = 45360(x.2 common) = $9072
+* * Super Shock: All the same as the above with Inate Attack (burn, 4d6) instead and Armor Divisor(2) added on. (60x1.5x.6)(20,000x.15)(.35x.8)(x.2 common)(x2) = $18144

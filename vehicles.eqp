@@ -188,7 +188,7 @@
 			"tech_level": "7",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 5000,
 			"weight": "500 lb",
@@ -206,7 +206,7 @@
 			"tech_level": "8",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 8000,
 			"weight": "400 lb",
@@ -224,7 +224,7 @@
 			"tech_level": "7",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 8000,
 			"weight": "600 lb",
@@ -242,7 +242,7 @@
 			"tech_level": "8",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 13000,
 			"weight": "500 lb",
@@ -260,7 +260,7 @@
 			"tech_level": "7",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 11000,
 			"weight": "440 lb",
@@ -278,7 +278,7 @@
 			"tech_level": "8",
 			"legality_class": "4",
 			"tags": [
-				"Driving (Automobile)"
+				"Driving (Motorcycle)"
 			],
 			"value": 18000,
 			"weight": "340 lb",
