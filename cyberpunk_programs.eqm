@@ -6,7 +6,7 @@
 			"name": "Password Pryer",
 			"local_notes": "Uses programatic exploits to get around password requiremetns. +1/complexity to Electronics(Computer Operations) for defeating passwords",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x3"
 		},
@@ -15,7 +15,7 @@
 			"name": "Lockdown",
 			"local_notes": "Provides a Electronics(Computer Operations) penalty equal to Complexity for others breaking passwords",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x2"
 		},
@@ -33,7 +33,7 @@
 			"name": "Databomb",
 			"local_notes": "Destroys protected data when preset criteria is met.",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x1.5"
 		},
@@ -42,7 +42,7 @@
 			"name": "Surger",
 			"local_notes": "Forces HT-Complexity check on device running this software.",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x3"
 		},
@@ -51,7 +51,7 @@
 			"name": "Trigger",
 			"local_notes": "Runs a program or activates a single command on a networked device on predetermined trigger. Can hold ComplexityxComplexityx2 triggers",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x0.5"
 		},
@@ -60,7 +60,7 @@
 			"name": "Scatter",
 			"local_notes": "Grants -Complexity to Computer Operations checks for others to track protected signals to source. Grants +1/2 Complexity to Computer Operations checks to detect trace attempts.",
 			"tags": [
-				"Software"
+				"software"
 			],
 			"cost": "x3"
 		},
@@ -68,18 +68,26 @@
 			"id": "fo-0VNJva6QsoK0re",
 			"name": "SDK, Pro",
 			"local_notes": "Grants +Complexity to Computer Programming tests for writing Programs. TL specific.",
-			"cost": "x10"
+			"tags": [
+				"software"
+			],
+			"cost": "x15"
 		},
 		{
 			"id": "fN8LpxU7DpKreN_rI",
 			"name": "SDK, public",
-			"local_notes": "Grants + 1/2 Complexity to Computer Programming tests to make a program. TL specific."
+			"local_notes": "Grants + 1/2 Complexity to Computer Programming tests to make a program. TL specific.",
+			"tags": [
+				"software"
+			]
 		},
 		{
 			"id": "f8IEWMcghlF-PYDmD",
 			"name": "SDK, Commercial",
-			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
-			"tech_level": "\\",
+			"local_notes": "Grants +Complexity -1 to Computer Programming checks to create Programs. TL specific",
+			"tags": [
+				"software"
+			],
 			"cost": "x4"
 		},
 		{
