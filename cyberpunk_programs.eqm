@@ -65,6 +65,24 @@
 			"cost": "x3"
 		},
 		{
+			"id": "fo-0VNJva6QsoK0re",
+			"name": "SDK, Pro",
+			"local_notes": "Grants +Complexity to Computer Programming tests for writing Programs. TL specific.",
+			"cost": "x10"
+		},
+		{
+			"id": "fN8LpxU7DpKreN_rI",
+			"name": "SDK, public",
+			"local_notes": "Grants + 1/2 Complexity to Computer Programming tests to make a program. TL specific."
+		},
+		{
+			"id": "f8IEWMcghlF-PYDmD",
+			"name": "SDK, Commercial",
+			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
+			"tech_level": "\\",
+			"cost": "x4"
+		},
+		{
 			"id": "f_RPVG_0-QojoFAW6",
 			"name": "Configure",
 			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
