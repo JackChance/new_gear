@@ -1,0 +1,86 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "fMjkX1ECy9-AvddWt",
+			"name": "Password Pryer",
+			"local_notes": "Uses programatic exploits to get around password requiremetns. +1/complexity to Electronics(Computer Operations) for defeating passwords",
+			"tags": [
+				"Software"
+			],
+			"cost": "x3"
+		},
+		{
+			"id": "faN4FEo1YNeWyCtFk",
+			"name": "Lockdown",
+			"local_notes": "Provides a Electronics(Computer Operations) penalty equal to Complexity for others breaking passwords",
+			"tags": [
+				"Software"
+			],
+			"cost": "x2"
+		},
+		{
+			"id": "f1q7jrc2I42pG20Go",
+			"name": "Cracker",
+			"local_notes": "Adds software's complexity to computer's complexity for Decryption purposes",
+			"tags": [
+				"software"
+			],
+			"cost": "x2.5"
+		},
+		{
+			"id": "fmBbUG8I8xa2ff1VZ",
+			"name": "Databomb",
+			"local_notes": "Destroys protected data when preset criteria is met.",
+			"tags": [
+				"Software"
+			],
+			"cost": "x1.5"
+		},
+		{
+			"id": "fhBavIelMEyceFmI-",
+			"name": "Surger",
+			"local_notes": "Forces HT-Complexity check on device running this software.",
+			"tags": [
+				"Software"
+			],
+			"cost": "x3"
+		},
+		{
+			"id": "ftf9fmCo9itN-L9Eu",
+			"name": "Trigger",
+			"local_notes": "Runs a program or activates a single command on a networked device on predetermined trigger. Can hold ComplexityxComplexityx2 triggers",
+			"tags": [
+				"Software"
+			],
+			"cost": "x0.5"
+		},
+		{
+			"id": "frKXcAXDkFyyUHLLd",
+			"name": "Scatter",
+			"local_notes": "Grants -Complexity to Computer Operations checks for others to track protected signals to source. Grants +1/2 Complexity to Computer Operations checks to detect trace attempts.",
+			"tags": [
+				"Software"
+			],
+			"cost": "x3"
+		},
+		{
+			"id": "f_RPVG_0-QojoFAW6",
+			"name": "Configure",
+			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
+			"tags": [
+				"Software"
+			],
+			"cost": "x1"
+		},
+		{
+			"id": "fS5xpWKEaCMq8MRNK",
+			"name": "Tracker",
+			"local_notes": "Grants +Complexity on Electronics(Computer Operations) used to track a signal to a physical location.",
+			"tags": [
+				"software"
+			],
+			"cost": "x1.5"
+		}
+	]
+}
