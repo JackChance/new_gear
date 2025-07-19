@@ -9,6 +9,7 @@
   * Valuable Material modifier alters costs to 20% labor, 80% material
 3. Establish modifiers for labor
   * Normally the GM will pick appropriate modifiers from the list in Labor Modifiers below
+  * Check blueprint level available, -4 for no blueprint or a bonus equal to the blueprint level otherwise
 4. Determine timeline
   * Most projects are measured in hours, with a roll per hour to contribute to the project. Especially large projects such as building a house might use days or weeks as their cycle instead. As a general rule the timeline should never be less than 1 hour per cycle and should have at least 4 cycles if a time longer than 1 hour is selected.
   * The progress listed below is per hour. If the cycle is longer than an hour multiply progress appropriately.
@@ -51,7 +52,12 @@
 |9|Microtech|Computer|$20.45|
 |10|Robotics|Computer|$31.82|
 
-TL 6-8 tools without access to power behave as TL 5. TL 8+ tools without access to a computer behave as TL 7.
+TL 6+ tools without access to power behave as TL 5. TL 8+ tools without access to a computer behave as TL 7.
+
+# Blueprints
+
+Blueprints are always a labor-only project that uses design tools as their TL tool. The maximum level a designer can upgrade a blueprint to is thier realative skill level in the design task, minimum 0.
+The cost of the blueprints is the blueprint level squared times one half.
 
 # Labor Modifiers
 
