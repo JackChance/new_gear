@@ -107,6 +107,39 @@
 				"software"
 			],
 			"cost": "x1.5"
+		},
+		{
+			"id": "fpBMnBcaDZSNoT_Ba",
+			"name": "Spoof",
+			"local_notes": "Allows issuing a command that seems to come from a legitimate source wihtout needing legitimate access. Add rating to spoofing rolls.",
+			"tech_level": "9",
+			"cost": "x2"
+		},
+		{
+			"id": "fz-0vYhtkK0g0oX4P",
+			"name": "Mask",
+			"local_notes": "Hide metadata about your icon from the system. Adds rating to Masking rolls.",
+			"tech_level": "9",
+			"cost": "x2"
+		},
+		{
+			"id": "fAxXh01JPVBYzxbSA",
+			"name": "Surge Protector",
+			"local_notes": "Add rating to resisting Surger.",
+			"tech_level": "9",
+			"cost": "x1"
+		},
+		{
+			"id": "fUJzRBVop-uEn3A3L",
+			"name": "Designer Tool, electronic",
+			"tech_level": "Adds rating to designing a playbook for a non-physical project",
+			"cost": "x3"
+		},
+		{
+			"id": "fMKvu0aPHeOeI37pO",
+			"name": "Designer Tool, physical",
+			"tech_level": "Adds rating to designing a playbook for a physical project",
+			"cost": "x7"
 		}
 	]
 }
