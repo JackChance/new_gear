@@ -2,22 +2,13 @@
 	"version": 5,
 	"rows": [
 		{
-			"id": "fMjkX1ECy9-AvddWt",
-			"name": "Password Pryer",
-			"local_notes": "Uses programatic exploits to get around password requiremetns. +1/complexity to Electronics(Computer Operations) for defeating passwords",
+			"id": "f_RPVG_0-QojoFAW6",
+			"name": "Configure",
+			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
 			"tags": [
-				"software"
+				"Software"
 			],
-			"cost": "x3"
-		},
-		{
-			"id": "faN4FEo1YNeWyCtFk",
-			"name": "Lockdown",
-			"local_notes": "Provides a Electronics(Computer Operations) penalty equal to Complexity for others breaking passwords",
-			"tags": [
-				"software"
-			],
-			"cost": "x2"
+			"cost": "x1"
 		},
 		{
 			"id": "f1q7jrc2I42pG20Go",
@@ -38,22 +29,45 @@
 			"cost": "x1.5"
 		},
 		{
-			"id": "fhBavIelMEyceFmI-",
-			"name": "Surger",
-			"local_notes": "Forces HT-Complexity check on device running this software.",
+			"id": "fUJzRBVop-uEn3A3L",
+			"name": "Designer Tool, electronic",
+			"local_notes": "Adds rating to designing a playbook for a non-physical project",
+			"cost": "x3"
+		},
+		{
+			"id": "fMKvu0aPHeOeI37pO",
+			"name": "Designer Tool, physical",
+			"local_notes": "Adds rating to designing a playbook for a physical project",
+			"cost": "x7"
+		},
+		{
+			"id": "faN4FEo1YNeWyCtFk",
+			"name": "Lockdown",
+			"local_notes": "Provides a Electronics(Computer Operations) penalty equal to Complexity for others breaking passwords",
+			"tags": [
+				"software"
+			],
+			"cost": "x2"
+		},
+		{
+			"id": "fz-0vYhtkK0g0oX4P",
+			"name": "Mask",
+			"local_notes": "Hide metadata about your icon from the system. Adds rating to Masking rolls.",
+			"cost": "x2"
+		},
+		{
+			"id": "fMjkX1ECy9-AvddWt",
+			"name": "Password Pryer",
+			"local_notes": "Uses programatic exploits to get around password requiremetns. +1/complexity to Electronics(Computer Operations) for defeating passwords",
 			"tags": [
 				"software"
 			],
 			"cost": "x3"
 		},
 		{
-			"id": "ftf9fmCo9itN-L9Eu",
-			"name": "Trigger",
-			"local_notes": "Runs a program or activates a single command on a networked device on predetermined trigger. Can hold ComplexityxComplexityx2 triggers",
-			"tags": [
-				"software"
-			],
-			"cost": "x0.5"
+			"id": "fURJ5zG4bqRWtnAUf",
+			"name": "Protocol Hardening",
+			"local_notes": "Adds it's complexity as penalty to incoming Spoof commands"
 		},
 		{
 			"id": "frKXcAXDkFyyUHLLd",
@@ -63,6 +77,15 @@
 				"software"
 			],
 			"cost": "x3"
+		},
+		{
+			"id": "f8IEWMcghlF-PYDmD",
+			"name": "SDK, Commercial",
+			"local_notes": "Grants +Complexity -1 to Computer Programming checks to create Programs. TL specific",
+			"tags": [
+				"software"
+			],
+			"cost": "x4"
 		},
 		{
 			"id": "fo-0VNJva6QsoK0re",
@@ -82,22 +105,25 @@
 			]
 		},
 		{
-			"id": "f8IEWMcghlF-PYDmD",
-			"name": "SDK, Commercial",
-			"local_notes": "Grants +Complexity -1 to Computer Programming checks to create Programs. TL specific",
+			"id": "fpBMnBcaDZSNoT_Ba",
+			"name": "Spoof",
+			"local_notes": "Allows issuing a command that seems to come from a legitimate source wihtout needing legitimate access. Add rating to spoofing rolls.",
+			"cost": "x2"
+		},
+		{
+			"id": "fAxXh01JPVBYzxbSA",
+			"name": "Surge Protector",
+			"local_notes": "Add rating to resisting Surger.",
+			"cost": "x1"
+		},
+		{
+			"id": "fhBavIelMEyceFmI-",
+			"name": "Surger",
+			"local_notes": "Forces HT-Complexity check on device running this software.",
 			"tags": [
 				"software"
 			],
-			"cost": "x4"
-		},
-		{
-			"id": "f_RPVG_0-QojoFAW6",
-			"name": "Configure",
-			"local_notes": "Sets a computer into a predetermined state, including what software is loaded onto it. Can hold ComplexityxComplexity/2 states(Minimum 1).",
-			"tags": [
-				"Software"
-			],
-			"cost": "x1"
+			"cost": "x3"
 		},
 		{
 			"id": "fS5xpWKEaCMq8MRNK",
@@ -109,37 +135,13 @@
 			"cost": "x1.5"
 		},
 		{
-			"id": "fpBMnBcaDZSNoT_Ba",
-			"name": "Spoof",
-			"local_notes": "Allows issuing a command that seems to come from a legitimate source wihtout needing legitimate access. Add rating to spoofing rolls.",
-			"tech_level": "9",
-			"cost": "x2"
-		},
-		{
-			"id": "fz-0vYhtkK0g0oX4P",
-			"name": "Mask",
-			"local_notes": "Hide metadata about your icon from the system. Adds rating to Masking rolls.",
-			"tech_level": "9",
-			"cost": "x2"
-		},
-		{
-			"id": "fAxXh01JPVBYzxbSA",
-			"name": "Surge Protector",
-			"local_notes": "Add rating to resisting Surger.",
-			"tech_level": "9",
-			"cost": "x1"
-		},
-		{
-			"id": "fUJzRBVop-uEn3A3L",
-			"name": "Designer Tool, electronic",
-			"tech_level": "Adds rating to designing a playbook for a non-physical project",
-			"cost": "x3"
-		},
-		{
-			"id": "fMKvu0aPHeOeI37pO",
-			"name": "Designer Tool, physical",
-			"tech_level": "Adds rating to designing a playbook for a physical project",
-			"cost": "x7"
+			"id": "ftf9fmCo9itN-L9Eu",
+			"name": "Trigger",
+			"local_notes": "Runs a program or activates a single command on a networked device on predetermined trigger. Can hold ComplexityxComplexityx2 triggers",
+			"tags": [
+				"software"
+			],
+			"cost": "x0.5"
 		}
 	]
 }
