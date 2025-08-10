@@ -18,6 +18,7 @@
 6. Collect skill modifiers
   * Modifiers for types of tools still apply to the roll, i.e. a TL 5 mini-kit still provides -2 to the skill test setting it apart from a TL 5 portable kit
   * Some Labor Modifiers also give modifiers to the skill test
+  * A blueprint adds it's quality to checks for making it's exact product.
   * On any cycle the crafter can voluntarily take on a penalty. For every -1 increase their output by 10% for that cycle, up to 100% for -10. Conversely, they can reduce their output for a +1 for every -20% progress up to +4 for -80%
   * Lighting and other environmental modifiers apply as normal
   * A solo crafter can normally benefit from Single-Minded but if multiple crafters are involved they cannot
@@ -56,8 +57,8 @@ TL 6+ tools without access to power behave as TL 5. TL 8+ tools without access t
 
 # Blueprints
 
-Blueprints are always a labor-only project that uses design tools as their TL tool. The maximum level a designer can upgrade a blueprint to is thier realative skill level in the design task, minimum 0.
-The cost of the blueprints is the blueprint level squared times one half.
+Blueprints are always a labor-only project that uses design tools as their TL tool. The maximum level a designer can upgrade a blueprint to is thier relative skill level in the design task, minimum 0.
+The cost of the blueprints is the blueprint level squared times one half item cost, minimum 1/4 item cost.
 
 # Labor Modifiers
 
